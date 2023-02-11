@@ -1,4 +1,3 @@
-import { expect, it } from 'vitest';
 import { z } from 'zod';
 
 // for more built-in validators, see https://github.com/colinhacks/zod#strings
